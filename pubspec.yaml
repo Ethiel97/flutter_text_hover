@@ -1,6 +1,6 @@
 name: text_hover
-description: Aesthetic text hover effect for your apps
-version: 1.0.0
+description: Aesthetic text hover effect library for your apps, very simple to use.
+version: 1.0.0+1
 homepage: https://github.com/Ethiel97/flutter_text_hover
 
 environment:

@@ -1,5 +1,5 @@
 
-- A great flutter and efficacious package for an aesthetic text hover
+- A great flutter and efficacious package for an aesthetic text hover effect
 
 
 ## Usage
